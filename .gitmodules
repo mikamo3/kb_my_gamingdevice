@@ -1,0 +1,3 @@
+[submodule "lib/mikamo3"]
+	path = lib/mikamo3
+	url = https://github.com/mikamo3/kicad_lib.git
